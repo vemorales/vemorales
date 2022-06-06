@@ -1,0 +1,16 @@
+name: "Victoria Morales"
+navbar:
+  title: "Victoria Morales"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research Interests"
+      href: interests.html
+    - text: "CV"
+      href: Morales CV.pdf
+      
+  output:
+    html_document:
+      theme: lumen
